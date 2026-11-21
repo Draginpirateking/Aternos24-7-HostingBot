@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": " smileonsmp.aternos.me:22323",
+    "port": 22323,
     "version": "",
     "try-creative": false
   },
